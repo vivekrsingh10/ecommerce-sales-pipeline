@@ -98,7 +98,7 @@ The data warehouse feeds into **Power BI** for analytics.
   - Product category filter  
   - Date filter  
 
-👉 *[Insert Dashboard Screenshot here]*
+<img width="1525" height="856" alt="Image" src="https://github.com/user-attachments/assets/2af1d3b0-b4de-431a-9a3d-7dbf8bd8673d" />
 
 ---
 
