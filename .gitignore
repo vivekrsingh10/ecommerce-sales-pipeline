@@ -1,0 +1,22 @@
+# Ignore Airflow logs
+airflow-docker/logs/
+
+# Ignore SQLite/temporary databases
+*.db
+*.sqlite
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Power BI autosave files
+*.tmp
+*.bak
